@@ -23,7 +23,7 @@ export default async function handle(req: NextApiRequest, res: NextApiResponse) 
           href: "https://cal.com",
         },
         {
-          name: "Crowd.dev",
+          name: "crowd.dev",
           description:
             "Centralize community, product, and customer data to understand which companies are engaging with your open source project.",
           href: "https://www.crowd.dev",
